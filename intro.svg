@@ -1,0 +1,23 @@
+<svg width="760" height="362" viewBox="0 0 760 362" xmlns="http://www.w3.org/2000/svg">
+  <a href="https://ajaykathwatee.onemeet.org/" target="_blank">
+    <rect width="760" height="362" fill="transparent"/>
+  </a>
+  <rect width="760" height="362" rx="12" fill="#0d1117"/>
+  <rect width="760" height="40" rx="12" fill="#161b22"/>
+  <rect y="28" width="760" height="12" fill="#161b22"/>
+  <circle cx="22" cy="20" r="7" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="7" fill="#ffbd2e"/>
+  <circle cx="66" cy="20" r="7" fill="#27c93f"/>
+  <text x="380" y="25" text-anchor="middle" fill="#484f58" font-size="12" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace">ajaykathwate — portfolio</text>
+  <text x="28" y="82" font-size="30" font-weight="700" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#73daca" font-size="30" font-weight="700">Ajay Kathwate</tspan></text>
+  <text x="28" y="120" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#c792ea" font-weight="600">Software Engineer</tspan><tspan fill="#484f58">  |  </tspan><tspan fill="#e3b341" font-weight="600">+91 9673848533</tspan><tspan fill="#484f58">  |  </tspan><tspan fill="#cdd6f4">ajay.kathwatee@gmail.com</tspan></text>
+  <text x="28" y="152" font-size="11" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58" font-size="11" letter-spacing="2">PROFILE</tspan></text>
+  <rect x="28" y="170" width="704" height="90" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="44" y="194" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#cdd6f4">Backend-focused </tspan><tspan fill="#7ee787" font-weight="600">Software Engineer</tspan><tspan fill="#cdd6f4"> with 2 years of production experience</tspan></text>
+  <text x="44" y="216" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#cdd6f4">building scalable backend systems using </tspan><tspan fill="#e3b341" font-weight="600">Java</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#7ee787" font-weight="600">Spring Boot</tspan><tspan fill="#cdd6f4">, and </tspan><tspan fill="#c792ea" font-weight="600">Microservices</tspan><tspan fill="#cdd6f4">.</tspan></text>
+  <text x="44" y="238" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#cdd6f4">Designing REST APIs, database schemas, and webhook-driven workflows.</tspan></text>
+  <rect x="28" y="280" width="704" height="62" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="28" y="280" width="4" height="62" rx="2" fill="#c792ea"/>
+  <text x="46" y="298" font-size="11" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58" font-size="11" letter-spacing="2">PHILOSOPHY</tspan></text>
+  <text x="46" y="322" font-size="14" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#cdd6f4" font-style="italic" font-size="14">"First make it work, then make it perfect."</tspan></text>
+</svg>
