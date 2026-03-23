@@ -1,0 +1,17 @@
+<svg width="760" height="262" viewBox="0 0 760 262" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="262" rx="12" fill="#0d1117"/>
+  <rect width="760" height="40" rx="12" fill="#161b22"/>
+  <rect y="28" width="760" height="12" fill="#161b22"/>
+  <circle cx="22" cy="20" r="7" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="7" fill="#ffbd2e"/>
+  <circle cx="66" cy="20" r="7" fill="#27c93f"/>
+  <text x="380" y="25" text-anchor="middle" fill="#484f58" font-size="12" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace">zsh — ajay@dev</text>
+  <text x="26" y="60" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#73daca">&#10022; Ajay Kathwate on </tspan><tspan fill="#73daca">&#10022; </tspan><tspan fill="#cdd6f4">~</tspan></text>
+  <text x="26" y="81" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#f7768e"># </tspan><tspan fill="#cdd6f4">curl ajay.dev/contact | jq</tspan></text>
+  <text x="26" y="108" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#8b949e">{</tspan></text>
+  <text x="26" y="129" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58">    </tspan><tspan fill="#79c0ff">"email"</tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#a5d6ff">"ajay.kathwatee@gmail.com"</tspan><tspan fill="#8b949e">,</tspan></text>
+  <text x="26" y="150" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58">    </tspan><tspan fill="#79c0ff">"linkedin"</tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#a5d6ff">"linkedin.com/in/ajaykathwate"</tspan><tspan fill="#8b949e">,</tspan></text>
+  <text x="26" y="171" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58">    </tspan><tspan fill="#79c0ff">"portfolio"</tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#a5d6ff">"ajaykathwatee.onemeet.org"</tspan><tspan fill="#8b949e">,</tspan></text>
+  <text x="26" y="192" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58">    </tspan><tspan fill="#79c0ff">"open_to"</tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#a5d6ff">["collabs", "side projects", "coffee ☕"]</tspan><tspan fill="#8b949e"></tspan></text>
+  <text x="26" y="213" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#8b949e">}</tspan></text>
+</svg>

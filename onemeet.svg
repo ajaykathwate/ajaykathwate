@@ -1,0 +1,19 @@
+<svg width="760" height="307" viewBox="0 0 760 307" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="307" rx="12" fill="#0d1117"/>
+  <rect width="760" height="40" rx="12" fill="#161b22"/>
+  <rect y="28" width="760" height="12" fill="#161b22"/>
+  <circle cx="22" cy="20" r="7" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="7" fill="#ffbd2e"/>
+  <circle cx="66" cy="20" r="7" fill="#27c93f"/>
+  <text x="380" y="25" text-anchor="middle" fill="#484f58" font-size="12" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace">zsh — ajay@dev</text>
+  <text x="26" y="60" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#73daca">&#10022; Ajay Kathwate on </tspan><tspan fill="#73daca">&#10022; </tspan><tspan fill="#cdd6f4">~</tspan></text>
+  <text x="26" y="81" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#f7768e"># </tspan><tspan fill="#cdd6f4">git log --oneline onemeet/</tspan></text>
+  <text x="26" y="108" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58">  </tspan><tspan fill="#e3b341">f3a92c1</tspan><tspan fill="#8b949e">  feat: multi-tenant org isolation with RBAC</tspan></text>
+  <text x="26" y="129" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58">  </tspan><tspan fill="#e3b341">b81d30e</tspan><tspan fill="#8b949e">  feat: auto-generate action items from notes</tspan></text>
+  <text x="26" y="150" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58">  </tspan><tspan fill="#e3b341">a2f109c</tspan><tspan fill="#8b949e">  feat: async follow-up notifications</tspan></text>
+  <text x="26" y="171" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58">  </tspan><tspan fill="#e3b341">9c4e017</tspan><tspan fill="#8b949e">  fix: org-level data boundary enforcement</tspan></text>
+  <text x="26" y="192" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58">  </tspan><tspan fill="#e3b341">3d18a00</tspan><tspan fill="#8b949e">  init: meetings made actually useful</tspan></text>
+  <line x1="26" y1="223" x2="734" y2="223" stroke="#21262d" stroke-width="1"/>
+  <text x="26" y="239" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#7ee787">&#8594; OneMeet</tspan><tspan fill="#484f58">  ·  turns chaotic meetings into accountable workflows</tspan></text>
+  <text x="26" y="260" font-size="13" font-weight="normal" text-anchor="start" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace"><tspan fill="#484f58">  Go + PostgreSQL  ·  RBAC  ·  multi-tenant  ·  </tspan><tspan fill="#79c0ff">actively shipping</tspan></text>
+</svg>
