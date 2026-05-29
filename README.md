@@ -1,41 +1,46 @@
-<div align="center">
+# Ajay Kathwate
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=73DACA&center=true&vCenter=true&width=560&lines=❖+Ajay+Kathwate+on+❖+~;%23+backend+engineer+--+pune%2C+india;%23+currently+shipping+OneMeet+🚀)](https://git.io/typing-svg)
+Backend engineer. I build systems that are meant to work — not just pass review.
 
-</div>
-
-<br/>
-
-<a href="https://ajaykathwatee.onemeet.org/" target="_blank">
-  <img src="intro.svg" width="100%" alt="Ajay Kathwate — Portfolio"/>
-</a>
-
-<br/>
-
-## ⚡ Currently Shipping
-
-<img src="onemeet.svg" width="100%" alt="OneMeet"/>
-
-<br/>
-
-## 🗂 Stack
-
-<img src="stack.svg" width="100%" alt="stack.toml"/>
-
-<br/>
-
-## 📡 Reach Me
-
-<img src="contact.svg" width="100%" alt="contact"/>
-
-<br/>
+Currently at Cognizant, working on production microservices, chat infrastructure, and a Java 8 → 21 migration that's actually going well. Before that, spent nearly two years at Akrity Computing building healthcare APIs, integrating FHIR/HL7, and learning why async matters the hard way.
 
 ---
 
-<div align="center">
+## What I work with
 
-![snake](https://github.com/ajaykathwate/ajaykathwate/blob/output/github-contribution-grid-snake-dark.svg)
+**Day to day:** Java, Spring Boot, PostgreSQL, REST APIs, Microservices, AWS Lambda
+**Also Experienced In:** React, Redux, TypeScript, RabbitMQ, Redis  
+**Deployed things using:** AWS (EC2, S3, Lambda), Docker, Fly.io, CI/CD  
+**Currently exploring:** System design, distributed systems, virtual threads (Java 21), DSA
 
-`"make it work  ·  make it right  ·  make it fast"`
+---
 
-</div>
+## What I'm building
+
+**[Lorestack](https://lorestack.io)** — an engineering blog platform I built solo from scratch.
+Multi-role publishing, real-time notifications, article scheduling, Google OAuth — the full thing.
+Stack: NestJS, React 18, PostgreSQL, Prisma, Socket.IO, deployed on Fly.io.
+
+It's live. People use it. That's the part I'm most proud of.
+
+---
+
+## Background
+
+BE in Computer Engineering from MES College of Engineering, Pune (2023).  
+2+ years of production experience since then.
+
+---
+
+## What I'm looking for
+
+A team that builds real things and takes backend quality seriously.  
+I want to work on systems where the decisions I make in code actually matter at scale.
+
+---
+
+## Reach me
+
+- Email: ajay.kathwatee@gmail.com  
+- LinkedIn: [linkedin.com/in/ajaykathwate](https://linkedin.com/in/ajaykathwate)  
+- GitHub: you're already here
