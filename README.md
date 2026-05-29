@@ -23,6 +23,8 @@ Stack: NestJS, React 18, PostgreSQL, Prisma, Socket.IO, deployed on Fly.io.
 
 It's live. People use it. That's the part I'm most proud of.
 
+Interesting thing is, I keep exploring different things.
+
 ---
 
 ## Background
