@@ -2,14 +2,14 @@
 
 Backend engineer. I build systems that are meant to work — not just pass review.
 
-Currently at Cognizant, working on production microservices, chat infrastructure, and a Java 8 → 21 migration that's actually going well. Before that, spent nearly two years at Akrity Computing building healthcare APIs, integrating FHIR/HL7, and learning why async matters the hard way.
+Currently at Cognizant, working on production microservices and a chat infrastructure. Before that, spent nearly two years at Akrity Computing building healthcare APIs, integrating FHIR/HL7, and learning why async matters the hard way.
 
 ---
 
 ## What I work with
 
-**Day to day:** Java, Spring Boot, PostgreSQL, REST APIs, Microservices, AWS Lambda
-**Also Experienced In:** React, Redux, TypeScript, RabbitMQ, Redis  
+**Core Technologies:** JavaScript, TypeScript, PostgreSQL, REST APIs, Microservices, AWS Lambda, Java
+**Also Experienced In:** React, Redux, TypeScript, RabbitMQ, Redis, Node.js, Spring Boot
 **Deployed things using:** AWS (EC2, S3, Lambda), Docker, Fly.io, CI/CD  
 **Currently exploring:** System design, distributed systems, virtual threads (Java 21), DSA
 
